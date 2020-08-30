@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/beeline-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/beeline-react/static/js/main.d0abe130.chunk.js",
+    "main.js.map": "/beeline-react/static/js/main.d0abe130.chunk.js.map",
+    "runtime-main.js": "/beeline-react/static/js/runtime-main.af413461.js",
+    "runtime-main.js.map": "/beeline-react/static/js/runtime-main.af413461.js.map",
+    "static/js/2.0b97e698.chunk.js": "/beeline-react/static/js/2.0b97e698.chunk.js",
+    "static/js/2.0b97e698.chunk.js.map": "/beeline-react/static/js/2.0b97e698.chunk.js.map",
+    "index.html": "/beeline-react/index.html",
+    "precache-manifest.66a1db1c846be383a4ee9490a916f4ce.js": "/beeline-react/precache-manifest.66a1db1c846be383a4ee9490a916f4ce.js",
+    "service-worker.js": "/beeline-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/beeline-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0b97e698.chunk.js.LICENSE.txt": "/beeline-react/static/js/2.0b97e698.chunk.js.LICENSE.txt",
+    "static/media/addUser.845d9609.svg": "/beeline-react/static/media/addUser.845d9609.svg",
+    "static/media/documents.add5ed0b.svg": "/beeline-react/static/media/documents.add5ed0b.svg",
+    "static/media/knowledgeBase.26c86ebc.svg": "/beeline-react/static/media/knowledgeBase.26c86ebc.svg",
+    "static/media/meetings.cc750493.svg": "/beeline-react/static/media/meetings.cc750493.svg",
+    "static/media/numbers.cbfd419a.svg": "/beeline-react/static/media/numbers.cbfd419a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af413461.js",
+    "static/js/2.0b97e698.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d0abe130.chunk.js"
+  ]
+}
